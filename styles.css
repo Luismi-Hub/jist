@@ -1,0 +1,145 @@
+
+
+form{
+  margin-top: 100px;
+}
+body{
+  font-family: 'Varela Round', sans-serif !important
+  ;
+  color: #202020;
+
+}
+
+
+.nav{
+  font-family: 'Varela Round', sans-serif
+
+}
+#foto {
+  width: 500px;
+  padding: 3%;
+  margin-top: 40px;
+}
+
+.logo {
+  margin-bottom: -15px;
+  margin-top: -5px;
+  width: 170px;
+}
+
+.navbar {
+  font-size: 20px;
+}
+
+.backg {
+  background-color: #d32e2e;
+  background-image: linear-gradient(180deg, #d32e2e 0%, #ffffff 100%);
+}
+
+.backgicon {
+  background-color: rgb(236, 236, 236);
+}
+
+.backgicon p {
+  font-size: 18px;
+
+  align-self: center;
+  font-weight: 500;
+  padding-left: 7%;
+}
+.backgicon h5 {
+  font-weight: 800;
+  font-size: 16px;
+  color: rgb(151, 45, 45);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.backgicon svg {
+  margin: 15px;
+}
+
+.oferta {
+  width: 650px;
+
+  margin-top: 50px;
+}
+
+.telefono2{
+  width: 300px;
+  height: 250px;
+}
+
+.dw {
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+  z-index: 10;
+}
+
+.w {
+  z-index: 999;
+  width: 80px;
+  padding: 3%;
+}
+
+.telefono {
+  width: 500px;
+  margin-top: 100px;
+}
+
+.software {
+  background-color: #d32e2e;
+  background-image: linear-gradient(0deg, #d32e2e 0%, #ffffff 100%);
+}
+
+.software2 {
+    background-color: #d32e2e;
+    background-image: linear-gradient(180deg, #d32e2e 0%, #ffffff 100%);
+  }
+
+
+  .software3 {
+    background-color: #d32e2e;
+    background-image: linear-gradient(90deg, #d32e2e 0%, #ffffff 100%);
+  }
+
+
+  .cuadroOferta{
+    background-color: #ffffff;
+    background-image: linear-gradient(180deg, #ffffff ,#cacaca,#c8c8c8, #ffffff );}
+
+.fa{color: yellow;}
+
+
+.formulario{
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #c3c3c3bd , transparent );
+}
+
+
+@media (max-width: 600px) {
+ #foto{
+   width: 400px;
+   margin-top: -70px;
+ }
+
+ .oferta{
+  width: 400px;
+  margin:0px;
+}
+
+.cuadroOferta{
+  min-width: 100%;
+  margin-top: 50px;
+ 
+}
+
+
+.telefono{
+  width: 300px;
+  margin-top: -50px;
+}
+
+.telefono2{
+  width: 300px;
+}
+}
