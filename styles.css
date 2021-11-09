@@ -119,6 +119,7 @@ body{
 @media (max-width: 1000px) {
  #foto{
    width: 600px;
+   height:400px;
    margin-top: -70px;
  }
 
@@ -136,11 +137,13 @@ body{
 
 .telefono{
   width: 700px;
+   height:500px;
   margin: -50px;
 }
 
 .telefono2{
   width: 600px;
+  height:400px
 }
     body{
     
