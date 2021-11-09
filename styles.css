@@ -135,12 +135,12 @@ body{
 
 
 .telefono{
-  width: 600px;
+  width: 700px;
   margin: -50px;
 }
 
 .telefono2{
-  width: 400px;
+  width: 600px;
 }
     body{
     
@@ -162,6 +162,8 @@ body{
   border-radius: 12px;
   
 }
+  
+  .card p,h1,h2,h3{font-size:40px}
   
   .logo{
   width:300px}
