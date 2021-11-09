@@ -156,7 +156,7 @@ body{
   }
   
   .card {
-  width: 550px;
+  width: 700px;
   border: none;
   box-shadow: 5px 8px 8px 2px #cacaca;
   border-radius: 12px;
@@ -164,7 +164,7 @@ body{
 }
   
   .logo{
-  width:250px}
+  width:300px}
   
   
   .navbar-toggler{
